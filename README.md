@@ -1,4 +1,4 @@
-﻿![ISG](magnetic.jpg)
+﻿![ISG](magnetic.png)
 # Exception Handling-Enumaration
 
 Exception Handling ( İstİsna İşleme )  ,  Enumaration ( Numaralandırma)
