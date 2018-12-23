@@ -3,4 +3,4 @@
 
 Exception Handling ( İstİsna İşleme )  ,  Enumaration ( Numaralandırma)
 
-Konular C# dilinde anlatılmıştır.
+Konu C# programlama dilinde anlatılmıştır.
